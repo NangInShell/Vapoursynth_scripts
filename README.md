@@ -1,0 +1,2 @@
+# Vapoursynth_scripts
+个人常用的vapoursynth脚本，脚本代码里有详细的中文注释
